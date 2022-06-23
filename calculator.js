@@ -24,4 +24,4 @@ else {
 }
 
 // display result
-prompt(`${number1} ${operator} ${number2} = ${result}`);
+alert(`${number1} ${operator} ${number2} = ${result}`);
